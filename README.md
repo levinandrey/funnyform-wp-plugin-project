@@ -4,7 +4,7 @@ This is a simple Wordpress plugin "Funny Form" - a small Contact Form which was 
 
 
 ### Step 1
-You can install this plugin via uploading ZIP **funnyform.zip** archive into your WP plugins's list funnyform.zip
+You can install this plugin via uploading ZIP [**funnyform.zip**](funnyform.zip) archive into your WP plugins's list funnyform.zip
 
 ![img-install](screenshots/img-install-1.png)
 
